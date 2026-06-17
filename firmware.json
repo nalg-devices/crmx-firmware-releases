@@ -2,19 +2,21 @@
   "schema": 1,
   "updated": null,
   "stm": {
-    "version": "a603060",
-    "url": "https://raw.githubusercontent.com/nalg-devices/crmx-firmware-releases/main/stm/a603060/CRMXTransceiver.bin",
+    "version": "cedfbff",
+    "url": "https://raw.githubusercontent.com/nalg-devices/crmx-firmware-releases/main/stm/cedfbff/CRMXTransceiver.bin",
     "sha256": "bc82f666f7180f29e547eec6da7e0f1871d29d077103b3caa30e3eacd0734f47",
     "size": 311724,
-    "signature": null,
+    "sig_alg": "ed25519",
+    "signature": "+Gxh2BvDgVAiubCfW+6HtLck5vqQ8ecnt2X/Ha8+sCgyaGcd4ynKRyrC2oR6zFJj6/OGhcxz0JcHlIFzLBgPBQ==",
     "notes": "STM32H743 firmware"
   },
   "esp": {
-    "version": "a603060",
-    "url": "https://raw.githubusercontent.com/nalg-devices/crmx-firmware-releases/main/esp/a603060/crmx_esp.bin",
+    "version": "cedfbff",
+    "url": "https://raw.githubusercontent.com/nalg-devices/crmx-firmware-releases/main/esp/cedfbff/crmx_esp.bin",
     "sha256": "55af856057018c01044cab021ff813176b592e987c889b2b6727d22dfd945e41",
     "size": 1017472,
-    "signature": null,
+    "sig_alg": "ed25519",
+    "signature": "ynAoreQQYeUwgkee6PC4EIFNOMkeC0fZFp/VGenvLU5P8hZTbxDtjzuOW87gi+qnJTqfO3sSsluf6a7whsWyAA==",
     "notes": "ESP32 firmware"
   }
 }
