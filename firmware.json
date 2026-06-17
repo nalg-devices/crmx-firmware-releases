@@ -1,6 +1,20 @@
 {
   "schema": 1,
   "updated": null,
-  "stm": { "version": null, "url": null, "sha256": null, "signature": null, "size": null, "notes": null },
-  "esp": { "version": null, "url": null, "sha256": null, "signature": null, "size": null, "notes": null }
+  "stm": {
+    "version": "0da7e97",
+    "url": "https://raw.githubusercontent.com/nalg-devices/crmx-firmware-releases/main/stm/0da7e97/CRMXTransceiver.bin",
+    "sha256": "ab471c5db9758d4d760a46293017e72c5228f996a0b11da5b4be8eb34d2829ff",
+    "size": 311564,
+    "signature": null,
+    "notes": "STM32H743 firmware"
+  },
+  "esp": {
+    "version": null,
+    "url": null,
+    "sha256": null,
+    "signature": null,
+    "size": null,
+    "notes": null
+  }
 }
